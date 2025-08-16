@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=200&section=header&text=itswut&fontColor=FFFFFF&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=200&section=header&text=spunK&fontColor=FFFFFF&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" />
   
   ### Elite Software Developer | Architect | Full-Stack Expert
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=750&color=5865F2&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Development;Software+Architecture;Game+Development;JavaScript+Ecosystem)](https://github.com/itswut)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=750&color=5865F2&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Development;Software+Architecture;Game+Development;JavaScript+Ecosystem)](https://github.com/spunKfps)
   
   <div>
     <a href="https://github.com/itswut" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-itswut-5865F2?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="28px"/>
+      <img src="https://img.shields.io/badge/GitHub-spunK-5865F2?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="28px"/>
     </a>
     <a href="https://discord.gg/7YHRdV9San" target="_blank">
       <img src="https://img.shields.io/badge/Discord-Simplified_Studios-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord Server" height="28px"/>
@@ -25,7 +25,7 @@
       <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" height="28px"/>
     </a>
     <a href="https://twitch.tv/itswut" target="_blank">
-      <img src="https://img.shields.io/badge/Twitch-itswut-9146FF?style=flat-square&logo=twitch&logoColor=white" alt="Twitch" height="28px"/>
+      <img src="https://img.shields.io/badge/Twitch-spunK-9146FF?style=flat-square&logo=twitch&logoColor=white" alt="Twitch" height="28px"/>
     </a>
   </div>
 </div>
@@ -33,8 +33,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itswut&theme=tokyonight&hide_border=true&background=0D1117&stroke=5865F2&ring=5865F2&fire=5865F2&currStreakLabel=5865F2" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=itswut&show_icons=true&count_private=true&hide_border=true&title_color=5865F2&icon_color=5865F2&text_color=ffffff&bg_color=0D1117" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spunKfps&theme=tokyonight&hide_border=true&background=0D1117&stroke=5865F2&ring=5865F2&fire=5865F2&currStreakLabel=5865F2" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=spunKfps&show_icons=true&count_private=true&hide_border=true&title_color=5865F2&icon_color=5865F2&text_color=ffffff&bg_color=0D1117" width="49%" />
 </div>
 
 ## 👨‍💻 About Me
@@ -174,13 +174,13 @@ I deliver **scalable architectures** that prioritize user experience and technic
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itswut&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spunKfps&theme=tokyonight" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=itswut&color=5865F2&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=spunKfps&color=5865F2&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
