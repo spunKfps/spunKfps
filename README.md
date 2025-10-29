@@ -6,7 +6,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=750&color=5865F2&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Development;Software+Architecture;Game+Development;JavaScript+Ecosystem)](https://github.com/spunKfps)
   
   <div>
-    <a href="https://github.com/itswut" target="_blank">
+    <a href="https://github.com/spunkfps" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-spunK-5865F2?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="28px"/>
     </a>
     <a href="https://discord.gg/7YHRdV9San" target="_blank">
@@ -24,7 +24,7 @@
     <a href="https://www.youtube.com/channel/UCKdkeHXkFtxNZuzX9eqHdTg" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" height="28px"/>
     </a>
-    <a href="https://twitch.tv/itswut" target="_blank">
+    <a href="https://twitch.tv/spunkfps" target="_blank">
       <img src="https://img.shields.io/badge/Twitch-spunK-9146FF?style=flat-square&logo=twitch&logoColor=white" alt="Twitch" height="28px"/>
     </a>
   </div>
