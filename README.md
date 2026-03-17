@@ -103,81 +103,8 @@ I deliver **scalable architectures** that prioritize user experience and technic
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,graphql&perline=5" />
   
   <h4>Languages & Tools</h4>
-  <img src="https://skillicons.dev/icons?i=lua,py,cs,cpp,docker,git,aws,azure,figma&perline=9" />
+  <img src="https://skillicons.dev/icons?i=lua,py,cs&perline=9" />
 </div>
-
-## 🔥 Key Competencies
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h3>🖥️ Frontend Development</h3>
-        <ul>
-          <li>React & Next.js architecture</li>
-          <li>Advanced state management</li>
-          <li>Responsive UI/UX implementation</li>
-          <li>Performance optimization</li>
-        </ul>
-        <h3>🛠️ Backend Engineering</h3>
-        <ul>
-          <li>Scalable Node.js services</li>
-          <li>Database design & optimization</li>
-          <li>API architecture (REST/GraphQL)</li>
-          <li>Microservices implementation</li>
-        </ul>
-      </td>
-      <td width="50%" valign="top">
-        <h3>🎮 Game Development</h3>
-        <ul>
-          <li>FiveM framework engineering</li>
-          <li>Rust plugin ecosystems</li>
-          <li>Game mechanics implementation</li>
-          <li>Performance tuning</li>
-        </ul>
-        <h3>☁️ DevOps & Infrastructure</h3>
-        <ul>
-          <li>Container orchestration</li>
-          <li>CI/CD pipeline automation</li>
-          <li>Cloud architecture design</li>
-          <li>System monitoring & scaling</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 📈 Current Focus
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="60" height="60" alt="Game Dev" />
-        <h3>Game Development</h3>
-        <p>Immersive experiences & mod frameworks</p>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="60" height="60" alt="Applications" />
-        <h3>Applications</h3>
-        <p>Cross-platform solutions & optimization</p>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60" alt="Web Projects" />
-        <h3>Web Solutions</h3>
-        <p>Interactive experiences & SaaS platforms</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spunKfps&theme=tokyonight" width="100%" />
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=spunKfps&color=5865F2&style=for-the-badge" alt="Profile Views" />
