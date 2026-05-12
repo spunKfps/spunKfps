@@ -250,11 +250,10 @@ Competitive Rust event: capture and extract flags at monuments for clan-based vi
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=spunKfps&bg_color=0D1117&color=AAAACC&line=5865F2&point=5865F2&area=true&area_color=5865F2&hide_border=true" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=spunKfps&bg_color=0D1117&color=8892b0&line=5865F2&point=FFFFFF&area=true&area_color=5865F2&hide_border=true&radius=6%22%20width=%2298%" width="98%"/>
 
 </div>
 
----
 
 ## 🏆 &nbsp;Trophies
 
