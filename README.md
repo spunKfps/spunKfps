@@ -45,7 +45,7 @@ I'm a **software engineer** specialising in full-stack development and game syst
 
 **Backend & Data**
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,graphql)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)
 
 **Tools**
 
@@ -211,35 +211,6 @@ Competitive Rust event: capture and extract flags at monuments for clan-based vi
 
 ---
 
-### <img src="https://img.shields.io/badge/▸_Web_%26_Tooling-Open_Source_%26_Commercial-238636?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-> Standalone web projects, dashboards, and open-source developer tooling.
-
-<br/>
-
-<table width="100%">
-<thead>
-<tr>
-<th align="left">Project</th>
-<th align="left">Description</th>
-<th align="left">Stack</th>
-<th align="center">Status</th>
-<th align="center">Link</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><b>Simplified Studios Site</b></td>
-<td>Studio site with script previews, purchase flows & Discord bot integration</td>
-<td><code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code></td>
-<td align="center">✅ Live</td>
-<td align="center"><a href="https://discord.gg/7YHRdV9San"><img src="https://img.shields.io/badge/-Visit-0d1117?style=flat-square&logo=vercel&logoColor=white"/></a></td>
-</tr>
-</tbody>
-</table>
-
----
-
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
@@ -253,25 +224,6 @@ Competitive Rust event: capture and extract flags at monuments for clan-based vi
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=spunKfps&bg_color=0D1117&color=8892b0&line=5865F2&point=FFFFFF&area=true&area_color=5865F2&hide_border=true&radius=6%22%20width=%2298%" width="98%"/>
 
 </div>
-
-
-## 🏆 &nbsp;Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=spunKfps&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=4"/>
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=spunKfps&color=5865F2&style=for-the-badge&label=PROFILE+VIEWS"/>
-
-<br/><br/>
-
-*"Building reliable systems through thoughtful engineering."*
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
 
